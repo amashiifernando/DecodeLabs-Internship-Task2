@@ -17,6 +17,7 @@ actually matter for fraud detection, rather than chasing accuracy.
 
 ## Dataset
 **Source:** [Credit Card Fraud Detection — Kaggle (mlg-ulb)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 **Size:** 284,807 rows × 31 columns (283,726 rows after removing 1,081 duplicates)
 
 | Column | Description |
@@ -94,7 +95,7 @@ identical (0.9634) across every threshold tested.
 ```
 DecodeLabs-Task2/
 ├── DecodeLabs_Task2.ipynb                   # Main analysis notebook
-├── Dataset-creditcard.csv                   # Raw input dataset
+├── gitignore                  
 ├── Visualizations
    ├── 01_class_distribution.png             # EDA visual
    ├── 02_amount_distribution.png            # EDA visual
