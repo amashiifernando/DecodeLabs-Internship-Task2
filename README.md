@@ -94,8 +94,7 @@ identical (0.9634) across every threshold tested.
 ## Repository Structure
 ```
 DecodeLabs-Task2/
-├── DecodeLabs_Task2.ipynb                   # Main analysis notebook
-├── gitignore                  
+├── DecodeLabs_Task2.ipynb                   # Main analysis notebook                  
 ├── Visualizations
    ├── 01_class_distribution.png             # EDA visual
    ├── 02_amount_distribution.png            # EDA visual
@@ -107,6 +106,7 @@ DecodeLabs-Task2/
    ├── 08_feature_importance.png             # Model evaluation visual
 └── model_comparison_summary.csv             # Final metrics table
 README.md
+gitignore
 ```
 
 ## How to Run
