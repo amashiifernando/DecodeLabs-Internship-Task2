@@ -1,6 +1,7 @@
-# Credit Card Fraud Detection — Leak-Free SMOTE Pipeline
+# Data Science Internship Project 2 
+## Credit Card Fraud Detection — Leak-Free SMOTE Pipeline
 
-A supervised learning project that detects fraudulent credit card transactions in a highly imbalanced dataset, built as part of the DecodeLabs Data Science Internship (Project 2).
+**DecodeLabs Internship 2026 - Amashi Fernando**
 
 ## Problem
 
