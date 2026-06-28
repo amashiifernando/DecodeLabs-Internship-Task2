@@ -1,5 +1,5 @@
 # Data Science Internship Project 2
-## Supervised Learning — Fraud Detection Pipeline
+## Supervised Learning (Fraud Detection Pipeline)
 **DecodeLabs Internship 2026 - Amashi Fernando**
 
 ## Overview
