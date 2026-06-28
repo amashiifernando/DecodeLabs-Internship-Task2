@@ -95,7 +95,7 @@ identical (0.9634) across every threshold tested.
 ```
 DecodeLabs-Task2/
 ├── DecodeLabs_Task2.ipynb                   # Main analysis notebook                  
-├── Visualizations
+├── Visualizations/
    ├── 01_class_distribution.png             # EDA visual
    ├── 02_amount_distribution.png            # EDA visual
    ├── 03_correlation_heatmap.png            # EDA visual
