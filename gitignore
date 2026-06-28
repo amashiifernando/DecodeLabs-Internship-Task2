@@ -1,0 +1,9 @@
+# Large dataset - not uploaded to GitHub due to size limits.
+# Download from Kaggle instead: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+Dataset-creditcard.csv
+creditcard.csv
+
+# Common junk files
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
